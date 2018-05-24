@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Ryan P. Mears"
   avatar           : "profile_pic.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Gainesville, FL"
+  bio              : "Lecturer & Neurophysiologist"
+  location         : "University of Florida, Gainesville, FL"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=ERciv7IAAAAJ&hl=en"
   email            :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mears-ufl.github.io"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -249,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
