@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Ryan P. Mears"
   avatar           : "profile_pic.jpg"
-  bio              : "Lecturer & Neurophysiologist"
-  location         : "University of Florida, Gainesville, FL"
+  bio              : "Lecturer & Neurophysiologist <br> University of Florida"
+  location         : "Gainesville, FL"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=ERciv7IAAAAJ&hl=en"
   email            :
