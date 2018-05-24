@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ryan P. Mears, Ph.D. / 'hands-on learning"
+title                    : "Ryan P. Mears, Ph.D."
 title_separator          : "-"
 name                     : &name "Ryan P. Mears, Ph.D."
 description              : &description "personal description"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Ryan P. Mears"
   avatar           : "profile_pic.jpg"
-  bio              : "Lecturer & Neurophysiologist <br> University of Florida"
+  bio              : "Lecturer & Neurophysiologist"
   location         : "Gainesville, FL"
-  employer         :
+  employer         : "University of Florida"
   googlescholar    : "https://scholar.google.com/citations?user=ERciv7IAAAAJ&hl=en"
-  email            : "Mears at UFL dot edu"
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,6 @@ author:
   facebook         :
   foursquare       :
   github           : "mears-ufl.github.io"
-  neurotree        : "https://neurotree.org/beta/tree.php?pid=15750"
   google_plus      :
   keybase          :
   instagram        :
