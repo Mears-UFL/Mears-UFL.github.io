@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+  
 Education
 ======
 * B.S. in Psychology, Ohio State University, 1999
@@ -29,11 +30,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+  
   
 Teaching
 ======
@@ -41,6 +44,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
