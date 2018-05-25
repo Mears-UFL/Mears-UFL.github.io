@@ -11,30 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Psychology, Ohio State University, 1999
+* Ph.D in Psychology, Bowling Green State University, 2006
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Positions
+=====
+2006 - 2008		Postdoctoral Fellow, Psychiatry, Wayne State University, School of Medicine
+2008 - 2010		Postdoctoral Fellow, Dept. of Psychiatry, Harvard Medical School
+2009 - 2014		Research Health Scientist, VA Boston Healthcare System
+2010 - 2014		Instructor, Dept. of Psychiatry, Harvard Medical School
+2015 - 2018   2015 - 2018		Affiliate Assistant Professor, Department of Psychology, University of Florida
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
