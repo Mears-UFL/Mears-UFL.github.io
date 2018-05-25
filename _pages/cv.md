@@ -16,11 +16,11 @@ Education
 
 Positions
 =====
-2006 - 2008		Postdoctoral Fellow, Psychiatry, Wayne State University, School of Medicine
-2008 - 2010		Postdoctoral Fellow, Dept. of Psychiatry, Harvard Medical School
-2009 - 2014		Research Health Scientist, VA Boston Healthcare System
-2010 - 2014		Instructor, Dept. of Psychiatry, Harvard Medical School
-2015 - 2018   2015 - 2018		Affiliate Assistant Professor, Department of Psychology, University of Florida
+* 2006 - 2008		Postdoctoral Fellow, Department of Psychiatry, Wayne State University, School of Medicine
+* 2008 - 2010		Postdoctoral Fellow, Department of Psychiatry, Harvard Medical School
+* 2009 - 2014		Research Health Scientist, VA Boston Healthcare System
+* 2010 - 2014		Instructor, Department of Psychiatry, Harvard Medical School
+* 2015 - 2018   2015 - 2018		Affiliate Assistant Professor, Department of Psychology, University of Florida
 
 
 Publications
