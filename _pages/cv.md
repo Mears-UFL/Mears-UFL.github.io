@@ -21,7 +21,8 @@ Positions
 * 2008 - 2010		Postdoctoral Fellow, Department of Psychiatry, Harvard Medical School
 * 2009 - 2014		Research Health Scientist, VA Boston Healthcare System
 * 2010 - 2014		Instructor, Department of Psychiatry, Harvard Medical School
-* 2015 - 2018   2015 - 2018		Affiliate Assistant Professor, Department of Psychology, University of Florida
+* 2015 - 2018   Affiliate Assistant Professor, Department of Psychology, University of Florida
+* 2018          Lecturer, Department of Psychology, University of Florida
 
 
 Publications
@@ -47,4 +48,4 @@ Teaching
   
 Service and leadership
 ======
-* 
+* Served on 2 senior thesis committees (2016-2018)
